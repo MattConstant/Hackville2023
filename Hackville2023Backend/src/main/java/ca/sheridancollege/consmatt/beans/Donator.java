@@ -25,4 +25,6 @@ private String address;
 private String name;
 private String phoneNumber;
 private String email; 
+private String imageLink;
+private String instructions;
 }
