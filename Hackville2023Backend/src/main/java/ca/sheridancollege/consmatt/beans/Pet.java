@@ -1,4 +1,4 @@
-package ca.sheridancollege.consmatt.models;
+package ca.sheridancollege.consmatt.beans;
 
 import java.time.LocalDateTime;
 

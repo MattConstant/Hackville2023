@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-import ca.sheridancollege.consmatt.models.Pet;
+import ca.sheridancollege.consmatt.beans.Pet;
 import ca.sheridancollege.consmatt.repositories.PetRepository;
 import lombok.AllArgsConstructor;
 

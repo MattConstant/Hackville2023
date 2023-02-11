@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import ca.sheridancollege.consmatt.models.Pet;
+import ca.sheridancollege.consmatt.beans.Pet;
 import ca.sheridancollege.consmatt.repositories.PetRepository;
 import lombok.AllArgsConstructor;
 
