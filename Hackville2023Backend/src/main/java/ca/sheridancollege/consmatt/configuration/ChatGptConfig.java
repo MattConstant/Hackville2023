@@ -3,7 +3,7 @@ package ca.sheridancollege.consmatt.configuration;
 public class ChatGptConfig {
 		public static final String AUTHORIZATION = "Authorization";
 		public static final String BEARER = "Bearer ";
-		public static final String API_KEY = "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";
+		public static final String API_KEY = "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";
 		public static final String MODEL = "text-davinci-003";
 		public static final Integer MAX_TOKEN = 300;
 		public static final Double TEMPERATURE = 0.0;

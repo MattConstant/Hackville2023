@@ -23,7 +23,7 @@ public class BootstrapData implements CommandLineRunner {
         dRepo.deleteAll();
         rRepo.deleteAll();
         
-        Donator d1 = Donator.builder().title("iphone 6").category("Phones").description("Brand new").damage("No damage").address("24 Manoir drive, Ottawa, Ontario, K0A 1W0").name("Jim Buhler").phoneNumber("6134431216").email("jimmyjim@gmail.com").build();
+        Donator d1 = Donator.builder().title("iphone 6").category("Phones").description("Brand new").damage("No damage").address("24 Manoir drive, Ottawa, Ontario, K0A 1W0").name("Jim Buhler").phoneNumber("6134431216").email("jimmyjim@gmail.com").imageLink("https://appletradein.likewize.com/Phonemodel/9182_30_150.jpg").build();
         Donator d2 = Donator.builder().title("iphone 6").category("Phones").description("Brand new").damage("No damage").address("24 Manoir drive, Ottawa, Ontario, K0A 1W0").name("Jim Buhler").phoneNumber("6134431216").email("jimmyjim@gmail.com").build();
         Donator d3 = Donator.builder().title("iphone 6").category("Phones").description("Brand new").damage("No damage").address("24 Manoir drive, Ottawa, Ontario, K0A 1W0").name("Jim Buhler").phoneNumber("6134431216").email("jimmyjim@gmail.com").build();
 

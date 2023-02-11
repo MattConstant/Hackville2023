@@ -20,4 +20,5 @@ public class Receiver {
 	private String name;
 	private String phoneNumber;
 	private String address;
+	
 }
