@@ -13,11 +13,16 @@ import lombok.NoArgsConstructor;
 @Data
 @Document
 @Builder
-public class Phone {
+public class Donator {
 	
 @Id
 private String id;
 private String title;
-
- 
+private String category;
+private String description;
+private String damage;
+private String address;
+private String name;
+private String phoneNumber;
+private String email; 
 }
